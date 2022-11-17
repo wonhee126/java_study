@@ -10,7 +10,7 @@ import java.util.*;
 public class Chap12_6 extends JFrame{
 	private Panel panel = new Panel();
 	public Chap12_6() {
-		setTitle("°İÀÚ ±×¸®±â");
+		setTitle("ê²©ì ê·¸ë¦¬ê¸°");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setContentPane(panel);
 		setLayout(new FlowLayout());
